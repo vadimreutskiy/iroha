@@ -17,8 +17,9 @@ Please check readme file in `project's repo <https://github.com/hyperledger/iroh
 How to use
 ^^^^^^^^^^
 
-- `JitPack <https://jitpack.io/#hyperledger/iroha-java>`__
-- `GitHub <https://github.com/hyperledger/iroha-java>`__
+You can download packed library and/or get instructions on setting a dependency using your favorite package manager at `JitPack <https://jitpack.io/#hyperledger/iroha-java>`__
+
+Source code of the library is available in the main repository on `GitHub <https://github.com/hyperledger/iroha-java>`__
 
 Example code
 ^^^^^^^^^^^^
